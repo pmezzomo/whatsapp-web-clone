@@ -1,6 +1,6 @@
 # WhatsApp Web Clone
 
-A pixel-perfect clone of the WhatsApp Web interface, built with pure HTML5 and CSS3 — no frameworks or JavaScript.
+A CSS practice project — recreating the WhatsApp Web interface using only HTML5 and CSS3, with no frameworks or JavaScript. The goal was to study layout techniques, positioning, custom properties, and pseudo-elements in a real-world UI context.
 
 ![preview](img/preview.png)
 
